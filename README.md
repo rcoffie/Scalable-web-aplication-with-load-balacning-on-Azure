@@ -24,7 +24,7 @@ This project demonstrates how to deploy a highly available and scalable web appl
 
 ### 1. Clone the Repository
 ```bash
-[git clone](https://github.com/rcoffie/Scalable-web-aplication-with-load-balacning-on-Azure.git)
+git clone <https://github.com/rcoffie/Scalable-web-aplication-with-load-balacning-on-Azure.git>
 cd <terraform>
 ```
 
