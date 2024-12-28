@@ -24,8 +24,8 @@ This project demonstrates how to deploy a highly available and scalable web appl
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone <https://github.com/rcoffie/Scalable-web-aplication-with-load-balacning-on-Azure.git>
+cd <terraform>
 ```
 
 ### 2. Configure Variables
@@ -157,6 +157,4 @@ Type `yes` to confirm and delete the infrastructure.
 ## Contributions
 Feel free to submit issues or pull requests to improve this project.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
